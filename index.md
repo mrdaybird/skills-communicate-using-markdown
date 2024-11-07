@@ -8,3 +8,8 @@
     std::cout << "Hello netherworld!\n";
   }
 ```
+
+My tasklist:
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
